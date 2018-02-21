@@ -21,9 +21,9 @@
 		
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info container">
-			<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'sydney' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'sydney' ), 'WordPress' ); ?></a>
+			<a href="<?php echo esc_url( __( ', '' ) ); ?>"><?php printf( __( '', '' ), '' ); ?></a>
 			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %2$s by %1$s.', 'sydney' ), 'aThemes', '<a href="https://athemes.com/theme/sydney" rel="designer">Sydney</a>' ); ?>
+			<?php printf( __( '', '' ), '', '' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 
